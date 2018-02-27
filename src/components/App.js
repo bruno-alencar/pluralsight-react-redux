@@ -15,4 +15,4 @@ App.propTypes = {
     children: PropTypes.object.isRequired
 };
 
-export default AboutPage;
+export default App;
