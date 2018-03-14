@@ -2,9 +2,11 @@
 
 ##TO RUN
 
-yarn
-yarn start
+> `yarn`
+
+> `yarn start`
 
 
-npm install
-npm start
+> `npm install`
+
+> `npm start`
